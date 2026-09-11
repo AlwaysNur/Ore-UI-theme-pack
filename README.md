@@ -1,4 +1,4 @@
-#Ore UI theme for Prism Launcher
+# Ore UI theme for Prism Launcher
 
 Minecraft-inspired dark theme for Prism Launcher with vibrant amethyst accents.
 
